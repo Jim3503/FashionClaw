@@ -1,0 +1,10 @@
+# OutfitAnyone Virtual Try-On Skill 依赖
+
+# HTTP 请求
+requests>=2.31.0
+
+# 图像处理
+Pillow>=10.0.0
+
+# 数值计算
+numpy>=1.24.0
