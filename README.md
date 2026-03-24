@@ -21,7 +21,7 @@
 
 | Model | Clothing | Result |
 |:-----:|:--------:|:------:|
-| ![Model 3](images/model-3.jpg) | ![Cloth 3](images/cloth-3.jpg) | ![Result 3](images/result-003.png) |
+| ![Model 3](model-3.jpg) | ![Cloth 3](cloth-3.jpg) | ![Result 3](result-003.png) |
 <!-- | ![Model 1](images/model-1.jpg) | ![Cloth 1](images/cloth-1.jpg) | ![Result 1](images/result-001.png) | -->
 <!-- | ![Model 2](images/model-2.jpg) | ![Cloth 2](images/cloth-2.jpg) | ![Result 2](images/result-002.png) | -->
 
