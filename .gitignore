@@ -49,8 +49,7 @@ results/
 *.png
 *.jpg
 *.jpeg
-!docs/images/*.jpg
-!docs/images/*.png
+
 
 # Config (may contain sensitive data)
 config.json
